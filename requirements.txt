@@ -1,0 +1,19 @@
+opencv-python
+numpy
+jetcam
+jetbot
+
+# on bash
+# pip install -r requirements.txt
+
+
+# Required Python packages:
+# -jetcam (for camera)
+# -jetbot (controls motors)
+# -cv2 (OpenCV for image processing)
+# -numpy (matrix operations)
+
+# Hardware Requirements:
+# -NVIDIA Jetson Nano
+# -JetBot hardware (motors, chassis, motor driver)
+# -CSI Camera (attached to the Jetson)
