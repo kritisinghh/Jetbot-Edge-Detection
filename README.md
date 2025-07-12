@@ -1,6 +1,6 @@
 # JetBot Edge Detection and Obstacle Avoidance 
 
-This project uses the NVIDIA JetBot to **detect edges** in real-time using OpenCV and **avoid obstacles**. If a large number of edges (like a wall) is detected, the JetBot stops, backs up, and turns to avoid collision.
+This project uses the NVIDIA JetBot to detect edges in real-time using OpenCV and avoid obstacles. If a large number of edges (like a wall) is detected, the JetBot stops, backs up, and turns to avoid collision.
 
 # How It Works
 
